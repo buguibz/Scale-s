@@ -38,10 +38,10 @@
                 </div>
                 <nav class="navigation">
                     <ul class="navMenu">
-                        <li class="linkMenu"><a href="http://scale-s.com/wst" class="iconHome">Home</a></li>
-                        <li class="linkMenu"><a href="http://scale-s.com/wst/services" class="iconService">Services</a></li>
-                        <!--<li class="linkMenu"><a href=" http://scale-s.com/wst/about-us" class="iconAboutus">About us</a></li>-->
-                        <li class="linkMenu"><a href="http://scale-s.com/wst/contact" class="iconContact">Contact</a></li>
+                        <li class="linkMenu"><a href="http://localhost/wst" class="iconHome">Home</a></li>
+                        <li class="linkMenu"><a href="http://localhost/wst/services" class="iconService">Services</a></li>
+                        <li class="linkMenu"><a href=" http://localhost/wst/about-us" class="iconAboutus">About us</a></li>
+                        <li class="linkMenu"><a href="http://localhost/wst/contact" class="iconContact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
